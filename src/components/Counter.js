@@ -31,8 +31,8 @@ const Counter = () => {
         <button onClick={decrementHandler}>Decrement</button>
       </div>
       <div>
-        <button onClick={incrementHandler2X}>Increment 2X</button>
-        <button onClick={decrementHandler2X}>Decrement 2X</button>
+        <button onClick={incrementHandler2X}>Increment 5X</button>
+        <button onClick={decrementHandler2X}>Decrement 5X</button>
         </div>
       <button onClick={toggleCounterHandler}>Toggle Counter</button>
     </main>
